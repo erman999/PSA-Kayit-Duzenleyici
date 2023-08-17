@@ -24,7 +24,7 @@ npm run-script build
 
 
 #### Görünüm
-![PSA Kayıt Düzenleyici](https://raw.githubusercontent.com/qencezero/PSA-Kayit-Duzenleyici/master/image.png)
+![PSA Kayıt Düzenleyici](https://raw.githubusercontent.com/erman999/PSA-Kayit-Duzenleyici/master/image.png)
 
 
 
